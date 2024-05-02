@@ -13,7 +13,7 @@ type Client struct {
 }
 
 func main() {
-
+	// изменение bma-branch
 }
 
 func selectClient(db *sql.DB, id int) (Client, error) {
